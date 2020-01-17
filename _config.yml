@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Jaeho's Honey Pot"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Jaeho Lee"
+name                     : "Honey Pot"
 description              : "Hold my Honey Pot "
 url                      : "https://Apiens.github.io" # the base hostname & protocol for your site e.g.
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -107,11 +107,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Jaeho Lee"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "I forage honey."
+  location         : "Somewhere in Seoul"
+  email            : 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
